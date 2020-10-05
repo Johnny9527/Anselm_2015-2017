@@ -23,6 +23,10 @@ close it, and release it back to the PSR form, waiting for further examination. 
 structure, the engineer needs to implement another Engineering Change (EC) Form to inform another department's engineer (ex: EE or ME) taking care of 
 and waiting for further instruction.
 
+In the real project, we created 10 different forms and 10 corresponding workflows to handle their requirements. The "three-workflows process" above only
+shows the basic concept of our solutions. In the real use case, it was way more complicated. As a consultant, I need to amend the system structure and 
+workflows responding to our client's needs at all times. This requires lots of energy but also presents our value.
+
 
 
 
