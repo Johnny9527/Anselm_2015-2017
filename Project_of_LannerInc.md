@@ -62,7 +62,7 @@ similar PSR was created. Therefore, we can avoid wasteful duplication of enginee
 
 ![](https://github.com/Johnny9527/Anselm_2015-2017/blob/main/Pictures/PSR_1.png)
 
-On the other hand, the quality-related forms were also auto-connected with our client's customer and supplier (Only if they had created their customer's and 
+On the other hand, the quality-related forms were also auto-connected with our client's customer and supplier (only if they had created their customer's and 
 supplier's data inside their PLM system in advance). This can also help the sales department in collecting data or conducting surveys for expanding future 
 partnerships.
 
