@@ -8,15 +8,17 @@ and to handle the product quality-related issues.
 ↑ PQM module within the PLM System
 
 * Annotation: 
-  * PC modules, which is an abbreviation for Product Collaboration, offers basic functions such as "Parts", "Components", "Documents", "Bill of Materials (BOM)", 
-  "Workflows", "Approved Manufacturer List (AML)", and "Approved Vendor List (AVL)" management. It can improve the cooperation between different departments within
-  the enterprise and shorten the product lifecycle by sharing real-time updated information through the PLM system. From the design phase of products to End of Life
-  (EOL), PC module can provide our client with a complete record in every manufacturing procedure, lower the production cost, and enhances the merchandise quality.
+  * PC modules, which is an abbreviation for Product Collaboration, offers basic functions such as "Parts", "Components", "Documents", "Bill of Materials 
+  (BOM)", "Workflows", "Approved Manufacturer List (AML)", and "Approved Vendor List (AVL)" management. It can improve the cooperation between different 
+  departments within the enterprise and shorten the product lifecycle by sharing real-time updated information through the PLM system. From the design 
+  phase of products to End of Life (EOL), PC module can provide our client with a complete record in every manufacturing procedure, lower the production 
+  cost, and enhances the merchandise quality.
   
-  * PPM modules, which is an abbreviation for Product Portfolio Management, offers a perfect environment in controlling every project that runs by different Project 
-  Managers (PMs) throughout the company. It provides a clear Work Breakdown Structure (WBS) containing detailed task information and deadline, easily for engineers 
-  to follow, and handout deliverables on time. It also has a real-time resource monitor that can aid PMs to control the whole process and budget of each project. 
-  The dashboard function of PPM module also offers visualized diagrams for senior supervisors to quickly understand every project status within the company.
+  * PPM modules, which is an abbreviation for Product Portfolio Management, offers a perfect environment in controlling every project that runs by different 
+  Project Managers (PMs) throughout the company. It provides a clear Work Breakdown Structure (WBS) containing detailed task information and deadline, 
+  easily for engineers to follow, and handout deliverables on time. It also has a real-time resource monitor that can aid PMs to control the whole process 
+  and budget of each project. The dashboard function of PPM module also offers visualized diagrams for senior supervisors to quickly understand every project 
+  status within the company.
 
 
 ## System Design:
@@ -41,17 +43,22 @@ workflows responding to our client's needs at all times. This requires lots of e
 
 ## Solutions:
 
-We spent hundreds of consultant's man days on this project and eventually got a perfect result. I could not describe this whole project outcome in only a few hundred 
-words, but I can share the concept of our solutions that were being used within this project.
+We spent hundreds of consultant's man days on this project and eventually got a perfect result. I could not describe this whole project outcome in only 
+a few hundred words, but I can share the concept of our solutions that were being used within this project.
 
-As our client is an international corporation, our PLM system offers different languages, and the employees are able to adjust their working hours and national holidays
-according to their regions.
+As our client is an international corporation, our PLM system offers different languages, and the employees are able to adjust their working hours and 
+national holidays according to their regions.
 
 ![](https://github.com/Johnny9527/Anselm_2015-2017/blob/main/Pictures/ChineseVersion_1.png)
 
-The picture above shows a scenario of a customer complaining about the problem of the laptop. (The PSR form) 
+↑ The picture above shows a scenario of a customer complaining about the problem of the laptop. (The PSR form) 
 
 ![](https://github.com/Johnny9527/Anselm_2015-2017/blob/main/Pictures/ChineseVersion_2.png)
 
-The picture above shows the PSR workflow that we design for our client, with different stage, involving different corresponding engineers or supervisors.
+↑ The picture above shows the PSR workflow that we design for our client, with different stage, involving different corresponding engineers or supervisors.
+
+As the problems of products are usually related to each other, we also designed an interface to auto-link relative issue's forms once the system detected a 
+similar PSR was created. Therefore, we can avoid wasteful duplication of engineers' effort in dealing with the same problems, saving time and resource cost.
+
+![](https://github.com/Johnny9527/Anselm_2015-2017/blob/main/Pictures/PSR_1.png)
 
