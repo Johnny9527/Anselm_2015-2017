@@ -44,3 +44,14 @@ workflows responding to our client's needs at all times. This requires lots of e
 We spent hundreds of consultant's man days on this project and eventually got a perfect result. I could not describe this whole project outcome in only a few hundred 
 words, but I can share the concept of our solutions that were being used within this project.
 
+As our client is an international corporation, our PLM system offers different languages, and the employees are able to adjust their working hours and national holidays
+according to their regions.
+
+![](https://github.com/Johnny9527/Anselm_2015-2017/blob/main/Pictures/ChineseVersion_1.png)
+
+The picture above shows a scenario of a customer complaining about the problem of the laptop. (The PSR form) 
+
+![](https://github.com/Johnny9527/Anselm_2015-2017/blob/main/Pictures/ChineseVersion_2.png)
+
+The picture above shows the PSR workflow that we design for our client, with different stage, involving different corresponding engineers or supervisors.
+
