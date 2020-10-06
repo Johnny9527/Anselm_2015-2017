@@ -1,11 +1,16 @@
 ## Customer Requirements:
 
-Our customer (Lanner Inc.) has already been using Oracle Agile PLM System for a while, however, they only purchased for PC and PPM modules. 
+Our customer (Lanner Inc.) has already been using Oracle Agile PLM System for a while, however, they only purchased PC and PPM modules. 
 Along with the expanding of departments, our customer wanted to import another module, which is called PQM, to surveillance the product producing process
 and to handle the product quality-related issues.
 
 ![](https://github.com/Johnny9527/Anselm_2015-2017/blob/main/Pictures/PQM.png)
 ↑ PQM module within the PLM System
+
+* Annotation: 
+  * PC modules, which is an abbreviation for Product Collaboration, offers basic functions such as "Parts", "Components", "Documents", "Bill of Materials (BOM)", "Workflows", "Approved Manufacturer List (AML)", and "Approved Vendor List (AVL)" management. It can improve the cooperation between different departments within the enterprise and shorten the product lifecycle by sharing real-time updated information through the PLM system. From the design phase of products to End of Life (EOL), PC module can provide our client with a complete record in every manufacturing procedure, lower the production cost, and enhances the merchandise quality.
+  
+  * PPM modules, which is an abbreviation for Product Portfolio Management, offers a perfect environment in controlling every project that runs by different Project Managers (PMs) throughout the company. It provides a clear Work Breakdown Structure (WBS) containing detailed task information and deadline, easily for engineers to follow, and handout deliverables on time. It also has a real-time resource monitor that can aid PMs to control the whole process and budget of each project. The dashboard function of PPM module also offers visualized diagrams for senior supervisors to quickly understand every project status within the company.
 
 
 ## System Design:
