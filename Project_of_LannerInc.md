@@ -1,8 +1,8 @@
 ## Customer Requirements:
 
-Our customer (Lanner Inc.) has already been using Oracle Agile PLM System for a while, however, they only purchased PC and PPM modules. 
-Along with the expanding of departments, our customer wanted to import another module, which is called PQM, to surveillance the product producing process
-and to handle the product quality-related issues.
+Our client (Lanner Inc.) has already been using Oracle Agile PLM System for a while, however, they only purchased PC and PPM modules. 
+Along with the expanding of departments, our client wanted to import another module, which is called PQM (Product Quality Management), 
+to surveillance the product producing process and to handle the product quality-related issues.
 
 ![](https://github.com/Johnny9527/Anselm_2015-2017/blob/main/Pictures/PQM.png)
 ↑ PQM module within the PLM System
@@ -23,7 +23,7 @@ and to handle the product quality-related issues.
 
 ## System Design:
 
-According to customer needs, we design a "three-workflows process" to meet this requirement.
+According to client needs, we design a "three-workflows process" to meet this requirement.
 
 ![](https://github.com/Johnny9527/Anselm_2015-2017/blob/main/Pictures/PQMWorkflows.png)
 ↑ The "three-workflows process" we designed.
