@@ -10,5 +10,7 @@
 
 * As an independent consultant of Anselm Inc., I was also in charge of mentoring several summer interns for a few months, and this experience also supplied me with a chance in learning how to be a good supervisor.
 
-### Disclaimer: For further information, please refers to other files. However, according to the Non-disclosure agreement (NDA), I am not allowed to share confidential documents or code to the public. Therefore, I will only share part of my works in this depository.
+### Disclaimer:
+
+* For further information, please refers to other files. However, according to the Non-disclosure agreement (NDA), I am not allowed to share confidential documents or code to the public. Therefore, I will only share part of my works in this depository.
 
