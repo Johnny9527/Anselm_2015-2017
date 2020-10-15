@@ -5,7 +5,7 @@ Along with the expanding of departments, our client wanted to import another mod
 to surveillance the product producing process and to handle the product quality-related issues.
 
 ![](https://github.com/Johnny9527/Anselm_2015-2017/blob/main/Pictures/PQM.png)
-↑ PQM module within the PLM System
+###### ↑ PQM module within the PLM System
 
 * Annotation: 
   * PC modules, which is an abbreviation for Product Collaboration, offers basic functions such as "Parts", "Components", "Documents", "Bill of Materials 
@@ -26,7 +26,7 @@ to surveillance the product producing process and to handle the product quality-
 According to client needs, we design a "three-workflows process" to meet this requirement.
 
 ![](https://github.com/Johnny9527/Anselm_2015-2017/blob/main/Pictures/PQMWorkflows.png)
-↑ The "three-workflows process" we designed.
+###### ↑ The "three-workflows process" we designed.
 
 At the beginning of the first workflow, when the quality department receives a complaint or error report from whether a consumer or an internal operator, 
 they can initiate a PSR form to record down the issue. After the PSR form is created and submitted, the director of the quality department will review 
@@ -51,11 +51,11 @@ national holidays according to their regions.
 
 ![](https://github.com/Johnny9527/Anselm_2015-2017/blob/main/Pictures/ChineseVersion_1.png)
 
-↑ The picture above shows a scenario of a customer complaining about the problem of the laptop. (The PSR form) 
+###### ↑ The picture above shows a scenario of a customer complaining about the problem of the laptop. (The PSR form) 
 
 ![](https://github.com/Johnny9527/Anselm_2015-2017/blob/main/Pictures/ChineseVersion_2.png)
 
-↑ The picture above shows the PSR workflow that we design for our client, with different stage, involving different corresponding engineers or supervisors.
+###### ↑ The picture above shows the PSR workflow that we design for our client, with different stage, involving different corresponding engineers or supervisors.
 
 As the problems of products are usually related to each other, we also designed an interface to auto-link relative issue's forms once the system detected a 
 similar PSR was created. Therefore, we can avoid wasteful duplication of engineers' effort in dealing with the same problems, saving time and resource cost.
