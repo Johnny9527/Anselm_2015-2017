@@ -70,3 +70,8 @@ partnerships.
 
 ![](https://github.com/Johnny9527/Anselm_2015-2017/blob/main/Pictures/Supplier.png)
 
+The above content is only part of the information in Lanner's project. In real cases, working as a PLM Consultant not only requires professional knowledge
+of the systems but also needs to undertake lots of pressure from both company and the clients. I self-considered that the project of Lanner was the turning
+point in my career. Because after this project, my ability being as an Independent Consultant was acknowledged by my manager and boss that I not only got a
+promotion but also earned a raise in payment.
+
