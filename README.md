@@ -4,7 +4,7 @@
 
 * I also had experience in conducting service in other Information Systems such as Global Specification Management (GSM) module of Oracle PLM for Process System, and Innovation Management (IM) module of Oracle Application Cloud System.
 
-* During the time worked as an Oracle Agile PLM consultant, I had contributed my knowledge and expertise in helping over 7 world-class companies across different fields such as high-tech industry, manufacturing industry, pharmaceutical industry, and food industry. [For more information, please refers to one of the company's project in "Project_of_LannerInc.md"]
+* During the time worked as an Oracle Agile PLM consultant, I had contributed my knowledge and expertise in helping over 7 world-class companies across different fields such as high-tech industry, manufacturing industry, pharmaceutical industry, and food industry. [For more information, please refers to one of the company's project in "Project_of_LannerInc.md: https://github.com/Johnny9527/Anselm_2015-2017/blob/main/Project_of_LannerInc.md"]
 
 * I have learned lots of things from this working experience such as analytical skills, customer consultancy, cross-department teamwork, and communication skills toward different clients.
 
